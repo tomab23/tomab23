@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Employee (test app)](https://employeetestapp.netlify.app/)
 
-- 🌱 I’m currently learning **Supabase**
+- 🌱 I’m currently learning **Supabase** and **Unreal Engine**
 
 - 👨‍💻 All of my projects are available at [https://thomas-bartier.netlify.app/](https://thomas-bartier.netlify.app/)
 
