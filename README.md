@@ -1,9 +1,10 @@
 <h1 align="center">Hi 👋, I'm Thomas Bartier</h1>
 <h3 align="center">I'm junior developper from France</h3>
 
-- 🔭 I’m currently working on [Employee (test app)](https://employeetestapp.netlify.app/)
 
-- 🌱 I’m currently learning **Supabase**
+- 🔭 I’m currently working on **Candidash** and **games**
+
+- 🌱 I’m currently learning **Supabase** and **Godot**
 
 - 👨‍💻 All of my projects are available at [https://thomas-bartier.netlify.app/](https://thomas-bartier.netlify.app/)
 
