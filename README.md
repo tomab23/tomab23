@@ -2,7 +2,7 @@
 <h3 align="center">I'm junior developper from France</h3>
 
 
-- 🔭 I’m currently working on **Candidash**
+- 🔭 I’m currently working on **Candidash** & **ComicsBox**
 
 - 🌱 I’m currently learning **Supabase** and **Godot**
 
