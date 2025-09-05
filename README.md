@@ -1,5 +1,5 @@
 # 💫 About Me:
-<h1>Hi 👋, I'm Thomas Bartier</h1><br><h3>I'm junior developper from **France**</h3><br><br>🔭 I’m currently working on **Candidash* & **ComicsBox**<br>🌱 I’m currently learning **Supabase*<br>👨‍💻 All of my projects are available at https://thomas-bartier.netlify.app/
+<h1>Hi 👋, I'm Thomas Bartier</h1><br><h3>I'm junior developper from <b>France<b/></b></h3><br><br>🔭 I’m currently working on <b>Candidash<b/> & <b>ComicsBox<b/> <br>🌱 I’m currently learning <b>Supabase<b/><br>👨‍💻 All of my projects are available at https://thomas-bartier.netlify.app/
 
 
 ## 🌐 Socials:
