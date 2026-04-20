@@ -1,5 +1,5 @@
 # 💫 About Me:
-<h1>Hi 👋, I'm Thomas Bartier</h1><br><h3>I'm junior developer from France 👨‍💻</h3><br><br>🔭 I’m currently working on <a href="https://candidash.netlify.app/"><b>Candidash</b></a> & <a href="https://github.com/tomab23/GamesCollect"><b>GamesCollect</b></a><br>🌱 I’m currently learning <b>Supabase</b><br>👨‍💻 All of my projects are available at https://thomas-bartier.netlify.app/
+<h1>Hi 👋, I'm Thomas Bartier</h1><br><h3>I'm junior developer from France 👨‍💻</h3><br><br>🔭 I’m currently working on <a href="https://candidash.netlify.app/"><b>Candidash</b></a> & <a href="https://monbasketball.netlify.app/"><b>GamesCollect</b></a><br>🌱 I’m currently learning <b>Supabase</b><br>👨‍💻 All of my projects are available at https://thomas-bartier.netlify.app/
 
 
 ## 🌐 Socials:
